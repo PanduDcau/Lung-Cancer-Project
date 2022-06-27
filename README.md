@@ -37,4 +37,10 @@ Using requirements.txt
 ```
 python app.py
 ```
+## UI of the Application
+![Initial GUI](https://github.com/Pandula1234/Lung-Cancer-Project/blob/main/static/Interface1.PNG)
+
+## Final Result
+![Final Result](https://github.com/Pandula1234/Lung-Cancer-Project/blob/main/static/Interface2.PNG)
+
 
